@@ -11,6 +11,6 @@ body {
 .centered-text {
     text-align: center;
     font-family: monospace;
-    line-height: 0;
+    line-height: 1;
     white-space: pre-line;
 }
