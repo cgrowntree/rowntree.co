@@ -1,0 +1,17 @@
+/* style.css */
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0; /* Optional background color */
+}
+
+.centered-text {
+    text-align: center;
+    white-space: pre-wrap; /* Preserve line breaks and spaces */
+    font-family: monospace; /* Use a monospaced font for consistent character width */
+    line-height: 1; /* Adjust line height for consistent spacing */
+}
