@@ -4,16 +4,13 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f0f0f0;
+    background-color: black; /* Set background to black */
+    color: white; /* Set text color to white */
 }
 
 .centered-text {
-    display: grid;
-    justify-content: center;
+    text-align: center;
     font-family: monospace;
     line-height: 1;
-}
-
-.centered-text .line {
-    white-space: nowrap;
+    white-space: pre-line;
 }
